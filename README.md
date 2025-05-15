@@ -1,4 +1,4 @@
-# NetSentry
+# NetSleuth
 
 **Cross-platform Network Status & Security Scanner**
 
