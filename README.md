@@ -29,7 +29,7 @@ NetSentry is a lightweight Python tool designed to:
 1. Clone or download this repository:
 
 ```bash
-git clone https://github.com/yourusername/netsentry.git
+git clone https://github.com/yxdrew87/netsentry.git
 cd netsentry
 pip install -r requirements.txt
 python main.py
